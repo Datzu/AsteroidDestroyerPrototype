@@ -2,4 +2,4 @@
 AsteroidDestroyerPrototype
 
 <h1>Test the game</h1>
-[my directory](AsteroidDestroyerBuild)
+[a link](https://github.com/Datzu/AsteroidDestroyerPrototype/tree/TestGameWebPage/AsteroidDestroyerBuild)
