@@ -1,2 +1,0 @@
-# AsteroidDestroyerPrototype
-AsteroidDestroyerPrototype
